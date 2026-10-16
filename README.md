@@ -1,4 +1,4 @@
-# F1 Tyre Degradation Analysis (Bahrain GP 2024)
+# Formula 1 Telemetry & Tyre Degradation Analysis (Bahrain GP 2024)
 
 How much lap time does an F1 car lose per lap as its tyres age, and does that differ between SOFT and HARD compounds? This project answers that with official timing data and Python.
 
